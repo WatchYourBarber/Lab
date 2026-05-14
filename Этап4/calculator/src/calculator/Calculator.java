@@ -34,6 +34,6 @@ public class Calculator {
             result = x / y;
 
         System.out.println("Результат = " + result);
-        System.out.println("Микушина");
+        System.out.println("череп");
     }
 }
